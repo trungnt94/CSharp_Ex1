@@ -1,0 +1,5 @@
+D:\C# workspace\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+D:\C# workspace\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+D:\C# workspace\Exercise1\Exercise1\obj\Debug\Exercise1.csprojResolveAssemblyReference.cache
+D:\C# workspace\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+D:\C# workspace\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
